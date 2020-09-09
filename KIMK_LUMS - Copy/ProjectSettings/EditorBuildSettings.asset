@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 47d19349f232b2240be22b1ce65ffb59
+  - enabled: 1
+    path: Assets/Scenes/Khoka_transition.unity
+    guid: fe34e1e3674c68d44916e6fd7cd875e7
+  - enabled: 1
+    path: Assets/Scenes/Law_school.unity
+    guid: 9cae3eaad756f854e9b11b0e2081e2c6
+  - enabled: 1
+    path: Assets/Scenes/Acd_block.unity
+    guid: 25f164ff400562c4585afad0064de640
+  - enabled: 1
+    path: Assets/Scenes/stress.unity
+    guid: 49ac7f6f784ac774a828735bbf2f737b
+  - enabled: 1
+    path: Assets/Scenes/aftermath.unity
+    guid: e01d74c5322dbbc4f90c9ac4e8191644
+  - enabled: 1
+    path: Assets/Scenes/SSE1.unity
+    guid: e976689df5b13a24f8702df297bfb6f7
+  - enabled: 1
+    path: Assets/Scenes/sse2.unity
+    guid: 893896667af57024683f0c5151bd36d6
+  - enabled: 1
+    path: Assets/Scenes/SSE3.unity
+    guid: a02ae4da051058141a9a418ad80aff02
+  - enabled: 1
+    path: Assets/Scenes/SSE_COVER.unity
+    guid: a74f307c9edc6c742825986b518cb2e3
+  - enabled: 1
+    path: Assets/Scenes/SSE_Schedule.unity
+    guid: 441f360d6e53a2c459fd73ab5dffe1de
+  m_configObjects: {}
